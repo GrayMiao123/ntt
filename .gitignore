@@ -1,0 +1,11 @@
+# Rust 编译产物
+/ntt_rust/target/
+**/*.rs.bk
+
+# OpenMP 编译产物
+/ntt_openmp/*.o
+/ntt_openmp/ntt_openmp
+
+# IDE 配置
+.vscode/
+.idea/
